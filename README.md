@@ -2,7 +2,7 @@
 
 HomeKam is a home camera monitor for Windows. It runs on your PC: detection, recording and face matching happen locally, and HomeKam sends nothing off the computer unless you turn on email alerts. The desktop window uses Microsoft Edge WebView2, whose required diagnostic data follows your Windows Diagnostic data setting.
 
-This repository only hosts installers. Download the latest one from [Releases](https://github.com/krislovescalifornia/HomeKam-releases/releases/latest).
+This repository only hosts installers. Download the newest one from [Releases](https://github.com/krislovescalifornia/HomeKam-releases/releases).
 
 ## Install
 
